@@ -22,5 +22,5 @@ Lets start the with the most common program.
 * Syntax : Variable_name = "Value". **=** is used an assignment operator.
 * Variable names can consist of any characters or alphabets. They can have alphanumeric or special characters in them.
 * Variable names cannot start with number or special characters except the **_** (Underscore).
-> Try to keep variables in plain and simple language so its easy to understand what values they represent.
-> Avoid using variables which are similar to the attributes or function in the in-built libraries.
+> * Try to keep variables in plain and simple language so its easy to understand what values they represent.
+> * Avoid using variables which are similar to the attributes or function in the in-built libraries.
