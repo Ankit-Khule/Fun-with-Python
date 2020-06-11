@@ -18,5 +18,5 @@ Lets start the with the most common program. **[Hello World](https://github.com/
 #### Things to look for while writing code in python
 * Python is **[Case Sensitive](https://github.com/Ankit-Khule/Python/blob/master/Case%20Sensitivity.ipynb "Case Sensitive")** means Print and print have different meaning in python. So If i write Z=1 and z=2 it will not overide the variables but store two different values in each.
 
-
+![](file:///C:/Users/ankit.khule/Desktop/Scripts/Python/DS/Case%20Sensitive.JPG)
 
