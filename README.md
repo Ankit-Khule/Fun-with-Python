@@ -4,7 +4,7 @@ In this I will try to cover basics of python which is required for Data Science.
 
 ##  What is Python?
 * Python is a very general purpose programming language, which means it has wide variety of applications. 
-* It can be used in web development, Making Mobile Applications, Machine Learning, Data Mining etc.
+* It can be used in web development, Mobile Applications, Machine Learning, Data Mining etc.
 
 ##  Why Python?
 * If you ask any person who knows python all of them will tell that its the easiest language to learn and code.
@@ -16,3 +16,9 @@ In this I will try to cover basics of python which is required for Data Science.
 Lets start the with the most common program. Hello World
 
 [Hello World](https://github.com/Ankit-Khule/Python/blob/master/Hello%20Word.ipynb "Hello World")
+
+## Things to look for while writing code in python
+* Python is **case sensitive** means Print and print have different meaning in python. So If i write Z=1 and z=2 it will not overide the variables but store two different values in each.
+
+[Case Sensitive](https://github.com/Ankit-Khule/Python/blob/master/Case%20Sensitivity.ipynb "Case Sensitive")
+
