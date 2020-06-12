@@ -25,3 +25,49 @@ In this I will try to cover basics of python which is required for Data Science.
 ![Variable_name](https://github.com/Ankit-Khule/Python-for-Data-Science/blob/master/Images/Variables%20Part%202.JPG)
 > * Try to keep variables in plain and simple language so its easy to understand what values they represent.
 > * Avoid using variables which are similar to the attributes or function in the in-built libraries.
+
+## Operators
+## Types of Operators in Python
+
+* Arithmetic Operators (For Basic calculation Purpose)
+    * '*' --> Multiplication
+    * '/'--> Division
+    * '+' --> Addition
+    * '-'-- > Subtraction
+    * '%' --> Modulous
+
+![Arithmetic](https://github.com/Ankit-Khule/Python-for-Data-Science/blob/master/Images/Arithmetic.JPG)
+   
+    
+* Comparison Operator (For Comparing two variables and constants)
+    * Less than '<'
+	* greater than '>'
+	* Equal to '=='
+	* Less than or equal to '<='
+	* Greater than or equal to '>='
+	* Not equal to '!='
+
+![Comparison](https://github.com/Ankit-Khule/Python-for-Data-Science/blob/master/Images/Comparison.JPG)
+    
+* Logical Operator (Used for Logical conditions)
+    * And
+    * Or
+    * Not
+ 
+![Logical](https://github.com/Ankit-Khule/Python-for-Data-Science/blob/master/Images/Logical.JPG)
+  
+* Bitwise Operator (Binary numbers operations)
+    * Bitwise And '&'
+    * Bitwise OR '|'
+    * Bitwise XOR '^'
+    * Bitwise Not '~'
+    * Left shift '<<'
+    * Right shift '>>'
+    
+* Identity Operator (For checking the identity of constants and variables)
+    * is
+    * is not
+
+* Membership Operator (For finding relations between two variables)
+    * in
+    * not in
