@@ -76,3 +76,30 @@ In this I will try to cover basics of python which is required for Data Science.
     * not in - Returns true if the value is not present in the object
 
 ![Membership](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Images/Membership.JPG)    
+
+
+## [Data Types](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Data%20Types.ipynb)
+
+* The most important thing in any code is data types. These are objects used to store some kind of information.
+* Each data types can store only certain type of data.
+* Basic Types of Data
+	* int 	  - This data type is used to store only numerical or Integers and non decimal values
+	* Float   - This data type is used to store only Decimal or floating values.
+	* Bool 	  - This data type is used to store only Boolean data (true or false)
+	* Str 	  - This data type is used to store only Strings which can be alphanumeric and consist of any special characters.
+	* complex - Numbers with real and imaginary part such as 3+2j where j is square root of -1
+
+* type("xxx") is used to get the information about type of data for that particular object
+
+![Data Types](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Images/Datatype.JPG)
+
+
+> * This repository covers the basic of pythons now we will level up a little and explore more in depth of python.
+	> * Data Structures
+	> * Conditional Statements
+	> * Functions
+	> * OOPS
+	> * Debugging
+	> * File handling
+	> * Exception handling
+	> * Algorithms
