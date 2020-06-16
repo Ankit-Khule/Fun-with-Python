@@ -95,11 +95,12 @@ In this I will try to cover basics of python which is required for Data Science.
 
 
 > * This repository covers the basic of pythons now we will level up a little and explore more in depth of python.
-	> * Data Structures
-	> * Conditional Statements
-	> * Functions
-	> * OOPS
-	> * Debugging
-	> * File handling
-	> * Exception handling
-	> * Algorithms
+> * Below are the list of other respository for learning each concept
+> * [Data Structures](https://github.com/Ankit-Khule/Data-Structures-in-Python) 
+> * [Conditional Statements](https://github.com/Ankit-Khule/Conditonal-Statements-in-Python)
+> * [Functions](https://github.com/Ankit-Khule/Functions) 
+> * OOPS
+> * Debugging
+> * File handling
+> * Exception handling
+> * Algorithms
