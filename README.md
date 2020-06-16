@@ -26,7 +26,7 @@ In this I will try to cover basics of python which is required for Data Science.
 > * Try to keep variables in plain and simple language so its easy to understand what values they represent.
 > * Avoid using variables which are similar to the attributes or function in the in-built libraries.
 
-## Operators
+## [Operators](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Operators.ipynb)
 ## Types of Operators in Python
 
 * Arithmetic Operators (For Basic calculation Purpose)
@@ -56,18 +56,23 @@ In this I will try to cover basics of python which is required for Data Science.
  
 ![Logical](https://github.com/Ankit-Khule/Python-for-Data-Science/blob/master/Images/Logical.JPG)
   
-* Bitwise Operator (Binary numbers operations)
-    * Bitwise And '&'
-    * Bitwise OR '|'
-    * Bitwise XOR '^'
-    * Bitwise Not '~'
-    * Left shift '<<'
-    * Right shift '>>'
-    
+* Bitwise Operator (Used to compare binary numbers i.e numbers which are represented in 0 and 1)
+    * Bitwise And '&' 	- Set each bit to 1 if both bits are 1 eg: 1001 **&** 1010 will give --> 1000
+    * Bitwise OR '|' 	- Set each bit to 1 if one of the bits is 1 eg: 1001 **|** 1010 will give --> 1011
+    * Bitwise XOR '^' 	- Set each bit to 1 if only one of the bits is 1 eg: 1001 **^** 1010 will give --> 0011
+    * Left shift '<<'	- shift left by inserting zeroes from left and right most digit is removed eg: 1001 **<<**2 will give --> 0010
+    * Right shift '>>'	- shift rigth by inserting zeroes from right and left most digit is removed eg: 1011 **>>**2 will give --> 1100
+
+![bitwise](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Images/bitwise.JPG)
+ 
 * Identity Operator (For checking the identity of constants and variables)
-    * is
-    * is not
+    * is - returns true if the objects are similar
+    * is not - returns true  if the objects are not similar
+   
+![Identity](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Images/Identity.JPG)   
 
 * Membership Operator (For finding relations between two variables)
-    * in
-    * not in
+    * in - Returns true if the value is present in the object
+    * not in - Returns true if the value is not present in the object
+
+![Membership](https://github.com/Ankit-Khule/Introduction-to-Python/blob/master/Images/Membership.JPG)    
