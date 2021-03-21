@@ -99,8 +99,4 @@ In this I will try to cover basics of python which is required for Data Science.
 > * [Data Structures](https://github.com/Ankit-Khule/Data-Structures-in-Python) 
 > * [Conditional Statements](https://github.com/Ankit-Khule/Conditonal-Statements-in-Python)
 > * [Functions](https://github.com/Ankit-Khule/Functions) 
-> * OOPS
-> * Debugging
-> * File handling
-> * Exception handling
-> * Algorithms
+> * [OOPS](https://github.com/Ankit-Khule/OOPs-in-Python)
